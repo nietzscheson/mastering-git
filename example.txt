@@ -1,2 +1,2 @@
 main
-branch_2 #1 commit
+branch_2 #1 commit, #2 commit
